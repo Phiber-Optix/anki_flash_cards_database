@@ -1,0 +1,123 @@
+Rule for adding integers with the same sign?	Add absolute values, keep the sign.
+Rule for adding integers with different signs?	Subtract absolute values, keep the sign of the larger absolute value.
+Rule for subtracting integers?	Change subtraction to addition of the opposite, then apply addition rules.
+Rule for multiplying/dividing integers with the same sign?	Result is positive.
+Rule for multiplying/dividing integers with different signs?	Result is negative.
+Compute: (–6) + (–9).	–15 → both negative, add absolute values (6+9) and keep negative sign.
+Compute: (–12) – (–7).	–5 → subtracting a negative = adding the opposite, so –12 + 7 = –5.
+Compute: (–5)(–7).	+35 → same signs multiply to positive (5×7=35).
+Compute: (–40) ÷ (–8).	+5 → same signs divide to positive (40÷8=5).
+Compute: (–3)(–2)(–4)(–5).	+120 → 4 negatives (even) = positive, 3×2×4×5=120.
+How do you simplify a fraction?	Divide numerator and denominator by their GCF.
+Simplify: 56/98.	4/7 → divide top and bottom by GCF=14.
+What is the LCD of 2/5 and 3/10?	10 → smallest common multiple of 5 and 10.
+What is the LCD of 4/9 and 7/12?	36 → smallest common multiple of 9 and 12.
+Add: 2/3 + 5/6.	3/2 → LCD=6, so 4/6+5/6=9/6=3/2.
+Subtract: 7/8 – 3/4.	1/8 → convert 3/4 to 6/8, then 7/8–6/8=1/8.
+Multiply: 3/5 × 10/9.	2/3 → multiply across: 30/45, simplify ÷15.
+Divide: 7/12 ÷ 14/15.	5/8 → multiply by reciprocal: 7/12 × 15/14=105/168=5/8.
+Write ratio of 45 to 60 in simplest form.	3:4 → divide both by GCF=15.
+Solve proportion: 3/4 = x/20.	x=15 → cross multiply: 3×20=4x.
+Solve proportion: 7/9 = 35/x.	x=45 → cross multiply: 7x=315.
+If a map scale is 1 cm : 5 km, how many km does 8 cm represent?	40 km → multiply 8×5.
+Law: a^m · a^n = ?	a^(m+n)
+Law: (a^m)^n = ?	a^(mn)
+Law: a^m / a^n = ?	a^(m-n)
+Law: (ab)^m = ?	a^m b^m
+Law: (a/b)^m = ?	a^m / b^m
+What is x^0 for x ≠ 0?	1
+What is the negative exponent rule?	a^(–n) = 1/a^n
+Compute: (2^4)(2^3).	128 → same base multiply: add exponents 4+3=7, 2^7=128.
+Compute: (5^6) ÷ (5^2).	625 → same base division: subtract exponents 6–2=4, 5^4=625.
+Compute: (3^2)^4.	6,561 → power of power: multiply exponents 2×4=8, 3^8=6561.
+Compute: (–2)^5.	–32 → odd power keeps negative, 2^5=32.
+Simplify: (4^–2).	1/16 → negative exponent = reciprocal, 1/(4^2).
+Square root of 144.	12 → number whose square is 144.
+Cube root of 27.	3 → number whose cube is 27.
+Convert 94,000 into scientific notation.	9.4×10^4 → move decimal 4 places left.
+Convert 0.0000065 into scientific notation.	6.5×10^–6 → move decimal 6 places right.
+Convert 7.2×10^3 into standard form.	7,200 → move decimal 3 places right.
+Convert 5.01×10^–4 into standard form.	0.000501 → move decimal 4 places left.
+Solve: 2x + 5 = 11.	x=3 → subtract 5, then divide by 2.
+Solve: 9 – x = 4.	x=5 → subtract 9 both sides, –x=–5, so x=5.
+Solve: 5x – 7 = 3.	x=2 → add 7, then divide by 5.
+Solve: (3/5)x + 2 = 8.	x=10 → subtract 2, multiply both sides by 5/3.
+Solve: 7 – 2x = 15.	x=–4 → subtract 7, divide by –2.
+Solve: –4x = 28.	x=–7 → divide both sides by –4.
+Solve: 2x/3 – 5 = 1.	x=9 → add 5, multiply by 3/2.
+Solve: –(x – 4) = 10.	x=–6 → distribute negative, –x+4=10 → –x=6 → x=–6.
+Word problem: A taxi charges $3 flat fee + $2 per mile. If the bill was $15, how many miles were traveled?	6 miles → 15–3=12, then 12/2=6.
+Word problem: You have $20, spend $5, and then split the rest evenly among 3 people. How much per person?	$5 each → 20–5=15, then 15/3=5.
+What are the four quadrants of the coordinate plane?	QI: (+,+), QII: (–,+), QIII: (–,–), QIV: (+,–)
+Which quadrant is (–4, 3) in?	Quadrant II → x is negative, y is positive.
+Which quadrant is (–2, –5) in?	Quadrant III → x is negative, y is negative.
+What is the slope formula between (x1, y1) and (x2, y2)?	(y2–y1)/(x2–x1)
+Find slope of line through (2, 5) and (6, 9).	1 → rise=4, run=4, slope=1.
+Find slope of line through (–1, 4) and (3, 2).	–1/2 → rise=–2, run=4, slope=–2/4=–1/2.
+Equation of line with slope 2 through (0, 5)?	y=2x+5 → slope-intercept form.
+Equation of line with slope –3 through (2, 1)?	y=–3x+7 → point-slope form expanded.
+What is the sliding window technique?	A way to move a contiguous subarray/substring across input while updating results in O(1) per step.
+When is sliding window useful?	When the problem involves subarrays or substrings and recalculating from scratch would be too slow.
+What are the two types of sliding windows?	Fixed-size (window length is constant) and Variable-size (window expands and shrinks based on condition).
+Example of fixed-size sliding window problem?	Find maximum sum of k consecutive elements.
+Example of variable-size sliding window problem?	Smallest subarray with sum ≥ target.
+Why is sliding window better than brute force?	Avoids recalculating overlapping sections; reduces O(n·k) to O(n).
+What data structures often pair with sliding windows?	Hashmaps (to track counts), sets (to track unique elements), and deques (to track max/min).
+What is the biggest pitfall in variable windows?	Forgetting to shrink from the left when condition is met.
+What is the biggest pitfall in fixed windows?	Forgetting to drop the element that slid out of the window.
+What is the time complexity of most sliding window solutions?	O(n).
+What is the two pointers technique?	Using two indices to scan an array or string efficiently instead of nested loops.
+What are the two main types of pointer movement?	Opposite-direction (inward from both ends) and Same-direction (fast/slow).
+When is opposite-direction useful?	In sorted arrays to find pairs or check conditions by comparing both ends.
+When is same-direction useful?	In linked lists to detect cycles or find the middle node.
+Example of opposite-direction two pointer problem?	Two Sum II in a sorted array.
+Example of same-direction two pointer problem?	Detecting a cycle in a linked list.
+Why is two pointers better than brute force?	Reduces O(n²) pair scanning down to O(n).
+What is the fast/slow pointer trick?	Fast moves 2 steps, slow moves 1 step; if they meet → cycle exists.
+How to find the middle of a linked list with two pointers?	Fast moves 2 steps, slow moves 1 step; slow ends at the middle.
+Common pitfall when using inward pointers?	Forgetting it requires a sorted array.
+What does Big-O notation describe?	It describes how an algorithm’s runtime or space grows as input size n increases (upper bound of growth).
+O(1) — Constant Time	Runtime does not change with input size. Example: access array element by index.
+O(log n) — Logarithmic Time	Runtime grows slowly, proportional to log of n. Example: binary search.
+O(n) — Linear Time	Runtime grows directly with n. Example: scanning an array once.
+O(n log n) — Linearithmic Time	Runtime grows as n × log n. Example: merge sort, quicksort average.
+O(n^2) — Quadratic Time	Runtime grows as n squared. Example: nested loops (compare all pairs).
+O(2^n) — Exponential Time	Runtime doubles with each new element. Example: recursive subset generation.
+O(n!) — Factorial Time	Runtime grows factorially. Example: generating all permutations.
+Big-O vs Big-Theta vs Big-Omega	Big-O = worst-case upper bound, Big-Theta = tight average bound, Big-Omega = best-case lower bound.
+What is the core idea of the Prefix Sum pattern?	Build a running total array `prefix[i] = nums[0] + … + nums[i]` so you can compute any subarray sum in O(1): `sum[l:r] = prefix[r] - prefix[l-1]`
+Why use prefix sums instead of recalculating subarray sums?	Brute force subarray sum is O(n) each time. Prefix sums precompute cumulative sums, letting you answer queries in O(1).
+What are the main uses of Prefix Sums?	- Fast subarray/range sum queries<br>- Count subarrays with certain properties (sum = k, divisible by k, etc.)<br>- Prefix/suffix products (like LC 238)<br>- 2D range sums in matrices
+What is the difference between prefix array vs prefix sum + hashmap?	- Prefix array: Precompute sums → answer range queries directly.<br>- Prefix + hashmap: Store frequencies of prefix sums → count subarrays meeting a condition in O(n).
+How does Prefix Product / Suffix Product relate to Prefix Sum?	It’s the multiplicative version: precompute running products instead of sums. Example: LC 238 (Product of Array Except Self).
+What is 2D Prefix Sum used for?	Extend prefix sums to matrices. Precompute cumulative areas to query any sub-rectangle sum in O(1). Example: LC 363.
+Formula for slope between two points (x1, y1), (x2, y2)?	m = (y2 - y1) / (x2 - x1)
+What does a positive slope look like on a graph?	Line rises left → right.
+What does a negative slope look like on a graph?	Line falls left → right.
+What slope does a horizontal line have?	m = 0
+What slope does a vertical line have?	Undefined
+Equation form of a horizontal line through (0, c)?	y = c
+Equation form of a vertical line through (c, 0)?	x = c
+General slope–intercept form?	y = mx + b
+What does b represent in slope–intercept form?	The y-intercept, where the line crosses the y-axis.
+Point–Slope form of a line?	y - y1 = m(x - x1)
+When do you use Point–Slope form?	When you know the slope and one point on the line.
+Standard form of a line?	Ax + By = C, with integers and usually A &gt; 0.
+How do you convert slope–intercept (y = mx + b) to standard form?	Rearrange to Ax + By = C, clear fractions, make A &gt; 0.
+How do you convert point–slope to slope–intercept?	Expand the RHS, then isolate y.
+Process for solving for y in standard form?	1. Move x-term to the other side. 2. Divide through by coefficient of y.
+Example — Convert 3x + 2y = 12 to slope–intercept.	y = -3/2 x + 6
+Example — Line slope = 3 through (2, -1). Point–Slope form?	y + 1 = 3(x - 2)
+Slopes of parallel vs perpendicular lines?	Parallel = same slope. Perpendicular = negative reciprocals.
+What formula do you use when given a slope and a point?	Point-slope form: y - y₁ = m(x - x₁)
+What formula do you use when given two points?	First compute slope m = (y₂ - y₁)/(x₂ - x₁), then use point-slope form
+What is the slope-intercept form of a line?	y = mx + b, where m is slope and b is y-intercept
+What is the standard form of a line?	Ax + By = C, usually with integers and A ≥ 0
+How do you write a line if you are given x- and y-intercepts?	Use intercept form: x/a + y/b = 1
+What is the equation of a horizontal line through (a,b)?	y = b
+What is the equation of a vertical line through (a,b)?	x = a
+Write the equation of a line with slope m=3 through (2,5).	y - 5 = 3(x - 2) → y = 3x - 1
+Write the equation of a line through (1,2) and (3,6).	Slope = (6-2)/(3-1) = 2. Equation: y - 2 = 2(x - 1) → y = 2x
+Write the equation of a line through intercepts (4,0) and (0,2).	x/4 + y/2 = 1 → y = -½x + 2
+Write the equation of a horizontal line through (0,-4).	y = -4
+Write the equation of a vertical line through (7,0).	x = 7
