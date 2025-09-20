@@ -1,0 +1,16 @@
+Front,Back
+What makes an inequality linear?,"It looks like a linear equation but uses <, ≤, >, or ≥ instead of =."
+What special rule do you follow when multiplying/dividing an inequality by a negative?,You must flip the inequality sign.
+How do you graph the boundary line for y ≤ mx + b?,Draw line y = mx + b as a solid line (boundary included).
+How do you graph the boundary line for y < mx + b?,Draw line y = mx + b as a dashed line (boundary not included).
+How do you decide which side of the line to shade for an inequality?,"Pick a test point (usually (0,0)), substitute into the inequality; if true, shade that side, otherwise shade the opposite."
+"For y > 2x - 1, why is the line dashed?",Because it is a strict inequality (>) so boundary points are not included.
+"For y ≥ -x + 3, why is the line solid?",Because ≥ includes boundary points.
+What is the solution region of a system of inequalities?,The overlapping shaded region that satisfies all inequalities at once.
+What are the four possible outcomes of a system of inequalities?,"1. Bounded overlap (polygon/wedge), 2. Unbounded overlap (infinite region), 3. Just a line, 4. No solution"
+What does “no solution” mean in a system of inequalities?,There is no point that satisfies all inequalities simultaneously (regions don’t overlap).
+What does the solution look like when both inequalities point in the same general direction?,An unbounded region extending infinitely (ex: above both lines).
+What does the solution look like when one inequality shades above and another below?,A wedge- or polygon-shaped bounded region where shading overlaps.
+What does the solution look like when both inequalities collapse onto the same line?,The line itself (all points on the line).
+"Why do we test points like (0,0) in linear inequalities?",To determine which half-plane is the solution region.
+"How can you check quickly if (0,0) is in the solution region of a system?","Substitute (0,0) into each inequality; it must satisfy all to be in the overlap."
