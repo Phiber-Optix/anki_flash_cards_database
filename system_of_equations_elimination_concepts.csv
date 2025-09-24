@@ -1,0 +1,11 @@
+Front,Back
+What is the goal of elimination in systems of equations?,"To eliminate one variable by adding or subtracting the equations, leaving a single-variable equation to solve."
+When is elimination easier than substitution?,"When both equations have variables with the same or opposite coefficients (like 3x and -3x, or 2y and -2y)."
+What do you do if coefficients don't match?,Multiply one or both equations so that one variable’s coefficients match (or are opposites).
+True or False: You can choose to eliminate either x or y.,True — pick whichever is easier (smaller numbers or already aligned coefficients).
+What mistake happens if you subtract equations inconsistently?,Mixing orders (e.g. subtracting left sides one way and right sides the other) causes sign errors.
+"If two equations are identical after elimination, what does that mean?",The system has infinitely many solutions (the lines overlap).
+"If elimination produces a false statement (e.g., 0 = 5), what does that mean?",The system has no solution (the lines are parallel).
+How do you check your elimination solution?,"Plug your (x,y) into both original equations — both must be true."
+What is the general sequence of steps for elimination?,"1) Align equations, 2) Multiply if needed, 3) Add/subtract to eliminate a variable, 4) Solve for the remaining variable, 5) Substitute back, 6) Check."
+Why is elimination called the 'addition method'?,Because it often uses addition (or subtraction) of equations to cancel out one variable.
