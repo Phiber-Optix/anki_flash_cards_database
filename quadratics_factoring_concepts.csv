@@ -1,0 +1,7 @@
+Front,Back
+What is the first step when factoring any quadratic?,Check for a greatest common factor (GCF) and factor it out.
+How do you factor a monic trinomial x^2 + bx + c?,Find two numbers that multiply to c and add to b.
+How do you factor a non-monic trinomial ax^2 + bx + c?,"Multiply a*c, find two numbers that multiply to that and add to b, then split the middle term and factor by grouping."
+What is the difference of squares formula?,a^2 - b^2 = (a - b)(a + b)
+What is a perfect square trinomial?,a^2 + 2ab + b^2 = (a+b)^2 or a^2 - 2ab + b^2 = (a-b)^2.
+How can you check your factoring is correct?,Expand the factors back with FOIL and see if it matches the original quadratic.

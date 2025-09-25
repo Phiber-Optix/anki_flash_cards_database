@@ -1,0 +1,9 @@
+Front,Back
+Factor x^2 + 7x + 12.,(x+3)(x+4)
+Solve x^2 - 5x + 6 = 0.,"Roots: x = 2, 3."
+Factor 2x^2 + 5x + 3.,(2x+3)(x+1)
+Solve 3x^2 - 10x - 8 = 0.,"Roots: x = 4, -2/3."
+Factor x^2 - 49.,(x-7)(x+7)
+Factor 9x^2 + 6x + 1.,(3x+1)^2
+Solve 5x^2 - x - 6 = 0.,"Roots: x = 1, -6/5."
+Factor 4x^2 + 12x + 5.,(2x+1)(2x+5)
